@@ -12,7 +12,10 @@ public class SpringbootApplication /*extends SpringBootServletInitializer */{
         System.out.println("rewrewrewrewr3");
         System.out.println("rewrewrewrewr3");System.out.println("rewrewrewrewr3");
         System.out.println("rewrewrewrewr3");
-
+        System.out.println("rewrewrewrewr3");
+        System.out.println("rewrewrewrewr3");
+        System.out.println("rewrewrewrewr3");
+        System.out.println("rewrewrewrewr3");
 		SpringApplication.run(SpringbootApplication.class, args);
 	}
 
